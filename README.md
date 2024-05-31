@@ -1,4 +1,4 @@
-### Anime Dashboard
+# Anime Dashboard
 
 This Jupyter Notebook-based dashboard provides insights into anime data using Panel, HoloViews, and Tabulator in JupyterLab.
 
