@@ -41,7 +41,7 @@ This Jupyter Notebook-based dashboard provides insights into anime data using Pa
 
 #### Dashboard Image:
 
-![Anime Dashboard](Kakashi.png)
+![Anime Dashboard](Dashboard.png)
 
 #### Serving the Dashboard Locally:
 
