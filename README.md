@@ -57,7 +57,10 @@ panel serve Interactive_dashboard.ipynb
 
 ## YouTube Demo:
 
-For a video walkthrough of the dashboard, check out this [YouTube Demo](https://youtu.be/-T31Thgfz-k?si=J4mzvPV79nLUIZsE).
+For a video walkthrough of the dashboard, watch it here:
+
+[![Anime Dashboard YouTube Demo](THUMBNAIL.png)](https://youtu.be/-T31Thgfz-k?si=cUWNCUy3EIDFjv0k)
+
 
 #### Additional Notes:
 
