@@ -55,6 +55,10 @@ panel serve Interactive_dashboard.ipynb
 
 - The dataset used for this dashboard is provided in `anime-dataset-2023.csv`.
 
+## YouTube Demo:
+
+For a video walkthrough of the dashboard, check out this [YouTube Demo](https://youtu.be/-T31Thgfz-k?si=J4mzvPV79nLUIZsE).
+
 #### Additional Notes:
 
 - Ensure you have the necessary plugins and extensions installed in JupyterLab to support Panel, HoloViews, and Tabulator for the best viewing experience.
