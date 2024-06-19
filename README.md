@@ -59,7 +59,7 @@ panel serve Interactive_dashboard.ipynb
 
 For a video walkthrough of the dashboard, watch it here:
 
-<a href="[https://www.youtube.com/watch?v=example_link](https://youtu.be/-T31Thgfz-k?si=cUWNCUy3EIDFjv0k)">
+<a href="[https://youtu.be/-T31Thgfz-k?si=cUWNCUy3EIDFjv0k]">
     <img src="THUMBNAIL.png" alt="Anime Dashboard YouTube Demo" style="width: 300px; height: auto;">
 </a>
 
