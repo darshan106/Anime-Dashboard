@@ -33,7 +33,7 @@ This Jupyter Notebook-based dashboard provides insights into anime data using Pa
     jupyter lab
     ```
 
-    - Open the `Anime.ipynb` notebook from the JupyterLab interface.
+    - Open the `Anime.py` notebook from the JupyterLab interface.
 
 3. **Explore the Dashboard:**
     - Run the notebook cells to load the data and generate the dashboard.
@@ -48,7 +48,7 @@ This Jupyter Notebook-based dashboard provides insights into anime data using Pa
 To serve the dashboard locally, use the command:
 
 ```bash
-panel serve Interactive_dashboard.ipynb
+panel serve Interactive_dashboard.py
 ```
 
 #### Dataset:
